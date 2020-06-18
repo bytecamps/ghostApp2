@@ -41,7 +41,7 @@ struct ContentView: View {
             Button(action: {
                 self.startOver()
             }) {
-                Text("Start again")
+                Text("Start Over")
             }
         }
     }
